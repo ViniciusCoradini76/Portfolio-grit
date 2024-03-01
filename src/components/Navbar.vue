@@ -1,7 +1,7 @@
 <template>
   <div id="navbar">
       <img
-    src="/home/vinicius/projetoVUE/PortfolioProfissional/public/icone.ico"
+    src="/public/icone.ico"
     alt="LOGO"/>
     <router-link to="">Portfólio</router-link>
     <router-link to="">Serviços</router-link>
